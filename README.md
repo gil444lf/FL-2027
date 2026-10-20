@@ -65,3 +65,4 @@ scripts/simulate.mjs Simulador de carreras
 4. Gráficos y sonidos.
 5. **PWA** (`manifest` + service worker) para instalarlo desde el navegador.
 6. Empaquetar con **Capacitor** (Android/iOS) y **Tauri/Electron** (Windows/Mac/Linux).
+"# FL-2027" 
